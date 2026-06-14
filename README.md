@@ -1,4 +1,4 @@
-# Picons — 220x132 · Light on Transparent
+# Picons — 100x60 · Light on Transparent
 
 Automatically built channel logo PNGs for Enigma2/DVB receivers, updated weekly via GitHub Actions.
 
@@ -11,8 +11,8 @@ Logos and service index are sourced from **[picons/picons](https://github.com/pi
 | Property   | Value           |
 |------------|-----------------|
 | Style      | UTF8 Service Name (`utf8snp`) |
-| Resolution | 220×132 px      |
-| Logo area  | 190×102 px      |
+| Resolution | 100×60 px       |
+| Logo area  | 86×46 px        |
 | Type       | Light           |
 | Background | Transparent     |
 
